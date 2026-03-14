@@ -82,7 +82,7 @@ This account will enlighten you about my software development skills and hands o
 Solana · Rust · Anchor · Tokio · TypeScript · Next.js · React 
 
 Let's Connect 
-(Twitter, Linkdin)
+([Twitter](https://x.com/ThatGrizzly_Dev), [Linkdin](https://www.linkedin.com/in/himaksh-pandey-a33109298/))
 
 Feel free to explore my pinned repositories.I'm open to collaborations, bounties, and innovative blockchain ideas.
 
