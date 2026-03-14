@@ -7,25 +7,25 @@ This account will enlighten you about my software development skills and hands o
 
 ⛬ Blockchain Projects (Solana & Rust)
 
-◆ JinAi: An on-chain betting quiz platform based on games and Gaming assistant built during the SendAi hackathon.
+◆ [JinAi](https://www.jinai.xyz/): An on-chain betting quiz platform based on games and Gaming assistant built during the SendAi hackathon.
 
-◆ Deplite: A feature-flag managing system on Solana to add new fetures in your websites without redeployment.
+◆ [Deplite](https://github.com/HimakshP/deplite): A feature-flag managing system on Solana to add new fetures in your websites without redeployment.
 
-◆ Authdotsol: An sdk to integrate login with Solana wallet directly using the sns domain name.
+◆ [Authdotsol](https://github.com/HimakshP/AuthdotSol): An sdk to integrate login with Solana wallet directly using the sns domain name.
 
-◆ Debank: A lending protocol on Solana which i made during solana bootcamp 2024.
+◆ [Debank](https://github.com/HimakshP/debank-lending-): A lending protocol on Solana which i made during solana bootcamp 2024.
 
-◆ Vesting: A decentralised token vesting platform on Solana.
+◆ [Vesting](https://github.com/HimakshP/vesting-bootcamp): A decentralised token vesting platform on Solana.
 
-◆ Swap: A solana escrow to swap spl tokens i made during Solana bootcamp 2024.
+◆ [Swap](https://github.com/HimakshP/swap-anchor-bootcamp): A solana escrow to swap spl tokens i made during Solana bootcamp 2024.
 
-◆ Journal dApp: A journal app made on Solana, implementing CRUD with minimal frontend.
+◆ [Journal dApp](https://github.com/HimakshP/crud-jounal-app): A journal app made on Solana, implementing CRUD with minimal frontend.
 
-◆ Nft dApp: An onchain app to create personalised nfts on Solana's chain.
+◆ [Nft dApp](https://github.com/HimakshP/create-nft-bootcamp): An onchain app to create personalised nfts on Solana's chain.
 
-◆ Insta-Labs: An onchain database for pathology labs to store and manage blood reports of patients.
+◆ [Insta-Labs](https://github.com/HimakshP/insta-labs): An onchain database for pathology labs to store and manage blood reports of patients.
 
-◆ CHESS-ing: Fully on-chain chess game built on Scroll L2
+◆ [CHESS-ing](https://chess-ing.vercel.app/): Fully on-chain chess game built on Scroll L2
 
 ◆ Quanta Lending: Decentralized P2P lending dApp on Solana
 
@@ -41,9 +41,11 @@ This account will enlighten you about my software development skills and hands o
  
 ⛬ Rust Based Projects
 
-◆ Cambiar: A cli-based file format converter tool made with Rust.
+◆ [Cambiar](https://github.com/HimakshP/cambiar): A cli-based file format converter tool made with Rust.
 
-◆ Mini-Redis: A redis server made using Tokio Rust.
+◆ [Mini-Redis](https://github.com/HimakshP/mini-redis-tokio): A redis server made using Tokio Rust.
+
+◆ [Rustlings](https://github.com/HimakshP/rustlings-progress): Mini Exercises to master rust programming language.
 
 ◆ All the Solana Projects mentioned above heavily use Rust programming language.
 
@@ -51,25 +53,25 @@ This account will enlighten you about my software development skills and hands o
 
 ⛬ C++ Based projects: 
 
-◆ Mines Game: Game in which you bet a certain amount and double it if you choose the right square.
+◆ [Mines Game](https://github.com/HimakshP/Mines_Game): Game in which you bet a certain amount and double it if you choose the right square.
 
-◆ Tic-Tac-Toe: Crosses and circle game made with C++.
+◆ [Tic-Tac-Toe](https://github.com/HimakshP/Tic_Tac_Toe_Game): Crosses and circle game made with C++.
 
-◆ Pass Generator made with C++.
+◆ [Pass Generator](https://github.com/HimakshP/Pass_generator) made with C++.
 
-◆ Todo list app made with cpp (this was my first project).
+◆ [Todo list app](https://github.com/HimakshP/first_proj-todolist-) made with cpp (this was my first project).
 
 
 
  ⛬ Cohorts & Community
 
-◆ Rektoff Security Bootcamp 2025
+◆ [Rektoff](https://www.rektoff.xyz/) Security Bootcamp 2025
 
-◆ Solana Turbine3 — Builders Cohort 2025 Q1
+◆ Solana [Turbine3](https://turbin3.org) — Builders Cohort 2025 Q1
 
-◆ Ackee School of Solana 2025
+◆ [Ackee](https://ackee.xyz/) School of Solana 2025
 
-◆ e/acc active contributer in this community of cracked devs.
+◆ [e/acc](https://www.eacclabs.site/) active contributer in this community of cracked devs.
 
 ◆ Grant from Solana Foundation for JinAi (contributer)
 
@@ -77,7 +79,7 @@ This account will enlighten you about my software development skills and hands o
 
 
 
-Solana · Rust · Anchor · TypeScript · Next.js · React · IPFS 
+Solana · Rust · Anchor · Tokio · TypeScript · Next.js · React 
 
 Let's Connect 
 (Twitter, Linkdin)
