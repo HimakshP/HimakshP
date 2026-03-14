@@ -1,11 +1,12 @@
-hey , I'm Himaksh Pandey and i rust :]
+hey,
+<h1>I'm Himaksh Pandey and i rust :]</h1>
 
 Welcome to my GitHub! 
 This account will enlighten you about my software development skills and hands on proof of work, enjoy building :>
 
 
 
-⛬ Blockchain Projects (Solana & Rust)
+ <h3>**Blockchain Projects** (Solana & Rust)</h3>
 
 ◆ [JinAi](https://www.jinai.xyz/): An on-chain betting quiz platform based on games and Gaming assistant built during the SendAi hackathon.
 
@@ -31,7 +32,7 @@ This account will enlighten you about my software development skills and hands o
 
 
 
-⛬ Solana Audits
+<h3>**Solana Audits**</h3>
 
 ◆ Rektoff Capstone Audit
 
@@ -39,7 +40,7 @@ This account will enlighten you about my software development skills and hands o
 
 
  
-⛬ Rust Based Projects
+ <h3>**Rust Based Projects**</h3>
 
 ◆ [Cambiar](https://github.com/HimakshP/cambiar): A cli-based file format converter tool made with Rust.
 
@@ -51,7 +52,7 @@ This account will enlighten you about my software development skills and hands o
 
 
 
-⛬ C++ Based projects: 
+ <h3>**C++ Based projects**</h3> 
 
 ◆ [Mines Game](https://github.com/HimakshP/Mines_Game): Game in which you bet a certain amount and double it if you choose the right square.
 
@@ -63,7 +64,7 @@ This account will enlighten you about my software development skills and hands o
 
 
 
- ⛬ Cohorts & Community
+  <h3>**Cohorts & Community**</h3>
 
 ◆ [Rektoff](https://www.rektoff.xyz/) Security Bootcamp 2025
 
