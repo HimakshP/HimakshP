@@ -10,7 +10,7 @@ This account will enlighten you about my software development skills and hands o
 
 ◆ [JinAi](https://www.jinai.xyz/): An on-chain betting quiz platform based on games and Gaming assistant built during the SendAi hackathon.
 
-◆ [Deplite](https://github.com/HimakshP/deplite): A feature-flag managing system on Solana to add new fetures in your websites without redeployment.
+◆ [Deplite](https://deplite.netlify.app): A feature-flag managing system on Solana to add new fetures in your websites without redeployment.
 
 ◆ [Authdotsol](https://github.com/HimakshP/AuthdotSol): An sdk to integrate login with Solana wallet directly using the sns domain name.
 
