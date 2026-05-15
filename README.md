@@ -42,6 +42,8 @@ This account will enlighten you about my software development skills and hands o
  
  <h3>**Rust Based Projects**</h3>
 
+◆ [Campus Nav](https://github.com/HimakshP/UIT-map-app): A campus map navigation app for my college completely built in rust(100%).
+
 ◆ [Cambiar](https://github.com/HimakshP/cambiar): A cli-based file format converter tool made with Rust.
 
 ◆ [Mini-Redis](https://github.com/HimakshP/mini-redis-tokio): A redis server made using Tokio Rust.
